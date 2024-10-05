@@ -6,3 +6,64 @@
     --text-color-black: #000;
     --text-color-white: #fff;
   }
+
+ header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+
+ .horizontal {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+ }
+
+.main-background {
+      background-image: url(img/poratadacover-scaled-1.jpg);
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+      justify-content: center;
+      color: white;
+      font-size: x-large;
+      margin-top: -30px;
+}
+
+.red-background {
+    background-color: rgb(224, 35, 35);
+    padding: 2%;
+
+}
+
+.karten {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2%;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+article {
+   background-color: white;
+   text-align: center;
+   padding: 2%;
+}
+
+.Bootcamps {
+   display: flex;
+   flex-direction: row;
+   gap: 3rem;
+}
+
+.Masteres {
+   display: flex;
+   flex-direction: row;
+   gap: 2rem;
+}
+
