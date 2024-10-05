@@ -13,11 +13,13 @@
     justify-content: space-between;
  }
 
+
  .horizontal {
     display: flex;
     flex-direction: row;
     gap: 2rem;
  }
+
 
 
 
@@ -51,12 +53,12 @@
     margin-top: 2rem;
 }
 
-/* Add an animation to article, when mouse is hoover move to the top right a little bit*/
+/* Add an animation to article, when mouse is hover move to the top right a little bit*/
 article {
    background-color: white;
    text-align: center;
    padding: 2%;
-   transition: transform 0.3s ease;
+   transition: transform 0.3s ease; /*animation*/
 }
 
 article:hover {
