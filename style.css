@@ -51,11 +51,18 @@
     margin-top: 2rem;
 }
 
+/* Add an animation to article, when mouse is hoover move to the top right a little bit*/
 article {
    background-color: white;
    text-align: center;
    padding: 2%;
+   transition: transform 0.3s ease;
 }
+
+article:hover {
+   transform: translate(10px, -10px); /* Move 10px to the right and 10px up */
+}
+
 
 .Bootcamps {
    display: flex;
