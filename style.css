@@ -19,6 +19,8 @@
     gap: 2rem;
  }
 
+
+
 .main-background {
       background-image: url(img/poratadacover-scaled-1.jpg);
       background-size: contain;
@@ -35,7 +37,7 @@
 }
 
 .red-background {
-    background-color: rgb(224, 35, 35);
+    background-color: red;
     padding: 2%;
 
 }
@@ -59,11 +61,110 @@ article {
    display: flex;
    flex-direction: row;
    gap: 3rem;
+   justify-content: space-around;
+   
 }
 
 .Masteres {
    display: flex;
    flex-direction: row;
    gap: 2rem;
+}
+
+.data {
+   background-image: url(img/estudiar-data-science-1.png);
+   background-size: contain;   
+   height: 120px;
+   width: 120px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.ciber {
+   background-image: url(img/estudiar-ciberseguridad.png);
+   background-size: contain;   
+   height: 120px;
+   width: 120px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.full {
+   background-image: url(img/estudiar-programacion-front-end-back.png);
+   background-size: contain;   
+   height: 120px;
+   width: 120px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.ux {
+   background-image: url(img/bootcamp-cloud.png);
+   background-size: contain;   
+   height: 120px;
+   width: 120px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.mktg {
+   background-image: url(img/estudiar-el-mejor-marketing-digital.png);
+   background-size: contain;   
+   height: 120px;
+   width: 120px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+
+.ia-1 {
+   background-image: url(img/master-1.jpg);
+   background-size: contain;   
+   height: 150px;
+   width: 150px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.ia-2 {
+   background-image: url(img/master-2.jpg);
+   background-size: contain;   
+   height: 150px;
+   width: 150px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
+}
+
+.ia-3 {
+   background-image: url(img/master-3.jpg);
+   background-size: contain;   
+   height: 150px;
+   width: 150px;
+   background-repeat: no-repeat;
+   color: white;
+   align-content: end;
+   padding: 10px;
+   
 }
 
