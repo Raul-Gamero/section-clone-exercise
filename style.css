@@ -41,7 +41,6 @@
 .red-background {
     background-color: red;
     padding: 2%;
-
 }
 
 .karten {
@@ -71,7 +70,6 @@ article:hover {
    flex-direction: row;
    gap: 3rem;
    justify-content: space-around;
-   
 }
 
 .Masteres {
@@ -90,7 +88,6 @@ article:hover {
    align-content: end;
    padding: 10px;
    position: relative;
-   
 }
 
 .data::after {
@@ -152,8 +149,7 @@ article:hover {
    color: white;
    align-content: end;
    padding: 10px;
-   position: relative;
-   
+   position: relative;  
 }
 
 .full::after {
@@ -184,8 +180,7 @@ article:hover {
    color: white;
    align-content: end;
    padding: 10px;
-   position: relative;
-   
+   position: relative;  
 }
 
 .ux::after {
@@ -238,7 +233,6 @@ article:hover {
    opacity: 1; /* Show the transparent image on hover */
 }
 
-
 .ia-1 {
    background-image: url(img/master-1.jpg);
    background-size: contain;   
@@ -250,9 +244,6 @@ article:hover {
    padding: 10px;
    
 }
-
-
-
 
 .ia-2 {
    background-image: url(img/master-2.jpg);
