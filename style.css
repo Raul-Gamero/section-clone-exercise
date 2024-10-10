@@ -13,15 +13,11 @@
     justify-content: space-between;
  }
 
-
  .horizontal {
     display: flex;
     flex-direction: row;
     gap: 2rem;
  }
-
-
-
 
 .main-background {
       background-image: url(img/poratadacover-scaled-1.jpg);
@@ -63,7 +59,6 @@ article {
 article:hover {
    transform: translate(10px, -10px); /* Move 10px to the right and 10px up */
 }
-
 
 .Bootcamps {
    display: flex;
