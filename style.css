@@ -20,7 +20,7 @@
  }
 
 .main-background {
-      background-image: url(img/poratadacover-scaled-1.jpg);
+      background-image: url("img/poratadacover-scaled-1.jpg");
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;
@@ -74,7 +74,7 @@ article:hover {
 }
 
 .data {
-   background-image: url(img/estudiar-data-science-1.png);
+   background-image: url("img/estudiar-data-science-1.png");
    background-size: contain;   
    height: 120px;
    width: 120px;
@@ -92,7 +92,7 @@ article:hover {
    left: 0;
    width: 100%;
    height: 100%;
-   background-image: url(img/deco-bootcamps.png);
+   background-image: url("img/deco-bootcamps.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-color: rgba(248, 7, 7, 0.4); /* Red overlay with 40% opacity */
@@ -105,7 +105,7 @@ article:hover {
 }
 
 .ciber {
-   background-image: url(img/estudiar-ciberseguridad.png);
+   background-image: url("img/estudiar-ciberseguridad.png");
    background-size: contain;   
    height: 120px;
    width: 120px;
@@ -123,7 +123,7 @@ article:hover {
    left: 0;
    width: 100%;
    height: 100%;
-   background-image: url(img/deco-bootcamps.png);
+   background-image: url("img/deco-bootcamps.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-color: rgba(248, 7, 7, 0.4); /* Red overlay with 40% opacity */
@@ -136,7 +136,7 @@ article:hover {
 }
 
 .full {
-   background-image: url(img/estudiar-programacion-front-end-back.png);
+   background-image: url("img/estudiar-programacion-front-end-back.png");
    background-size: contain;   
    height: 120px;
    width: 120px;
@@ -154,7 +154,7 @@ article:hover {
    left: 0;
    width: 100%;
    height: 100%;
-   background-image: url(img/deco-bootcamps.png);
+   background-image: url("img/deco-bootcamps.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-color: rgba(248, 7, 7, 0.4); /* Red overlay with 40% opacity */
@@ -167,7 +167,7 @@ article:hover {
 }
 
 .ux {
-   background-image: url(img/bootcamp-cloud.png);
+   background-image: url("img/bootcamp-cloud.png");
    background-size: contain;   
    height: 120px;
    width: 120px;
@@ -185,7 +185,7 @@ article:hover {
    left: 0;
    width: 100%;
    height: 100%;
-   background-image: url(img/deco-bootcamps.png);
+   background-image: url("img/deco-bootcamps.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-color: rgba(248, 7, 7, 0.4); /* Red overlay with 40% opacity */
@@ -198,7 +198,7 @@ article:hover {
 }
 
 .mktg {
-   background-image: url(img/estudiar-el-mejor-marketing-digital.png);
+   background-image: url("img/estudiar-el-mejor-marketing-digital.png");
    background-size: contain;   
    height: 120px;
    width: 120px;
@@ -211,12 +211,12 @@ article:hover {
 
 .mktg::after {
    content: "";
-   position: absolute;
+   position: ;
    top: 0;
    left: 0;
    width: 100%;
    height: 100%;
-   background-image: url(img/deco-bootcamps.png);
+   background-image: url("img/deco-bootcamps.png");
    background-size: contain;
    background-repeat: no-repeat;
    background-color: rgba(248, 7, 7, 0.4); /* Red overlay with 40% opacity */
@@ -229,7 +229,7 @@ article:hover {
 }
 
 .ia-1 {
-   background-image: url(img/master-1.jpg);
+   background-image: url("img/master-1.jpg");
    background-size: contain;   
    height: 150px;
    width: 150px;
@@ -241,7 +241,7 @@ article:hover {
 }
 
 .ia-2 {
-   background-image: url(img/master-2.jpg);
+   background-image: url("img/master-2.jpg");
    background-size: contain;   
    height: 150px;
    width: 150px;
@@ -253,7 +253,7 @@ article:hover {
 }
 
 .ia-3 {
-   background-image: url(img/master-3.jpg);
+   background-image: url("img/master-3.jpg");
    background-size: contain;   
    height: 150px;
    width: 150px;
